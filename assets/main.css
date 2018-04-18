@@ -5,19 +5,52 @@ body{
     color: black;
 }
 div.jumbotron h1{
-  margin: 0vh 0vh 0vh 0vh;
-  color: darkgray;
+  margin-bottom: none;
+  color: rgb(255, 241, 211);
+  text-align: center;
+}
+p.lead{
+    color: rgb(255, 241, 211);
+text-align: center;
+}
+h1.display-4{
+    font-family: 'Nova Square', cursive;
+}
+p.lead{
+    font-family: 'Nova Square', cursive;
+}
+p{
+    font-family: 'Nova Square', cursive;
+    color: rgb(255, 241, 211);
+    text-align: center;
 }
 .jumbotron a{
     font-family: 'Bungee Shade', cursive;
 }
-.my-4 {
-    background: rgb(113, 163, 146);
+section.mid-sec{
+    background: rgb(228, 221, 214);
 }
-section.class{
-    background: bisque;
+
+div.news{
+    background: rgb(106, 184, 214);
 }
-i.class{
- width: 15vh;
- height: 15vh;
+button.btn.btn-danger{
+    font-family: 'Bungee Shade', cursive;
+    text-align: center;
+}
+img{
+height: 30vh;
+width: auto;
+}
+a.btn.btn-danger{
+    font-family: 'Bungee Shade', cursive;
+}
+.map{
+    background: whitesmoke;
+}
+.links{
+    background: whitesmoke;
+}
+p.card-text{
+    color: black;
 }

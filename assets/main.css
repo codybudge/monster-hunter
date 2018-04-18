@@ -1,0 +1,23 @@
+/* *{
+    outline: 2px solid rgb(100, 23, 23);
+} */
+body{
+    color: black;
+}
+div.jumbotron h1{
+  margin: 0vh 0vh 0vh 0vh;
+  color: darkgray;
+}
+.jumbotron a{
+    font-family: 'Bungee Shade', cursive;
+}
+.my-4 {
+    background: rgb(113, 163, 146);
+}
+section.class{
+    background: bisque;
+}
+i.class{
+ width: 15vh;
+ height: 15vh;
+}

@@ -8,6 +8,7 @@ div.jumbotron h1{
   margin-bottom: none;
   color: rgb(255, 241, 211);
   text-align: center;
+  background-image: 
 }
 p.lead{
     color: rgb(255, 241, 211);
@@ -28,11 +29,11 @@ p{
     font-family: 'Bungee Shade', cursive;
 }
 section.mid-sec{
-    background: rgb(228, 221, 214);
+    background: 8rgb(182, 182, 181)
 }
 
 div.news{
-    background: rgb(243, 252, 255);
+    background: #F9A828
 }
 button.btn.btn-danger{
     font-family: 'Bungee Shade', cursive;
@@ -46,10 +47,10 @@ a.btn.btn-danger{
     font-family: 'Bungee Shade', cursive;
 }
 .map{
-    background: whitesmoke;
+    background: #07617D
 }
 .links{
-    background: whitesmoke;
+    background:  #2E383F
 }
 p.card-text{
     color: black;

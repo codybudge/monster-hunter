@@ -1,14 +1,20 @@
 /* *{
     outline: 2px solid rgb(100, 23, 23);
 } */
-body{
-    color: black;
+div.jumbotron{
+    margin-bottom: 0rem;
+    
 }
+.jumbotron{
+    background-image: url(monster-hunter.jpg);
+    background-size: 100%; 
+    
+}       
 div.jumbotron h1{
-  margin-bottom: none;
+
   color: rgb(255, 241, 211);
   text-align: center;
-  background-image: 
+ 
 }
 p.lead{
     color: rgb(255, 241, 211);
@@ -29,11 +35,11 @@ p{
     font-family: 'Bungee Shade', cursive;
 }
 section.mid-sec{
-    background: 8rgb(182, 182, 181)
+    background: #FFEBB7;
 }
 
 div.news{
-    background: #F9A828
+    background: #AAAAAA;
 }
 button.btn.btn-danger{
     font-family: 'Bungee Shade', cursive;
@@ -45,13 +51,20 @@ width: auto;
 }
 a.btn.btn-danger{
     font-family: 'Bungee Shade', cursive;
+    color: rgb(78, 0, 0);
 }
 .map{
-    background: #07617D
+    background: #BBBBBB;
 }
 .links{
-    background:  #2E383F
+    background:  #BBBBBB;
 }
 p.card-text{
+    color: #07617D;
+}
+.btn-danger{
+    color: #F9A828;
+}
+button.btn.btn-danger{
     color: black;
 }
